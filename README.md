@@ -98,4 +98,12 @@ Build the application for production:
 npm start
 ```
 
+## 📦 Deployment Link
+
+Build the application for production:
+
+```bash
+[npm start](https://food-delivery-application-namaste-k-nine.vercel.app/)
+```
+
 
