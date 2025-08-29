@@ -103,7 +103,7 @@ npm start
 Build the application for production:
 
 ```bash
-[npm start](https://food-delivery-application-namaste-k-nine.vercel.app/)
+https://food-delivery-application-namaste-k-nine.vercel.app/
 ```
 
 
