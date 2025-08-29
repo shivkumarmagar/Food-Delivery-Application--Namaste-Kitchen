@@ -95,7 +95,7 @@ The app is built with responsive design using Tailwind CSS breakpoints.
 Build the application for production:
 
 ```bash
-npm run build
+npm start
 ```
 
 
